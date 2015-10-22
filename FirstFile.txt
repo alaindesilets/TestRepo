@@ -1,1 +1,3 @@
 First file committed to the repo.
+
+This change and the initial file were first committed to the local repo.
