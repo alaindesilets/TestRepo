@@ -1,3 +1,6 @@
 First file committed to the repo.
 
 This change and the initial file were first committed to the local repo.
+
+Repo checked out into another local repo (GitRepo2), then file modified and 
+- Commit AND Pushed to remote repo.
