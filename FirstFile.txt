@@ -1,8 +1,3 @@
-First file committed to the repo.
+OK. So now I try the git command line, after receiving a private course by Eric.
 
-This change and the initial file were first committed to the local repo.
-
-Repo checked out into another local repo (GitRepo2), then file modified and 
-- Commit AND Pushed to remote repo.
-
-OK, so trying again... File is changed in Copy2 of the repo, then commited AND pushed.
+I modify the FirstFile.txt and save it, then try to commit it.
