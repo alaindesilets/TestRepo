@@ -2,6 +2,6 @@ OK. So now I try the git command line, after receiving a private course by Eric.
 
 I modify the FirstFile.txt and save it, then try to commit it.
 
-Then I did another modification from Copy1.
-
 OK, so this change was made and pushed from Copy1 WHILE ANOTHER CHANGE was being made in Copy2.
+AND PUSHED to GitHub. So at one point, Copy2 will have to merge the Copy1
+change with its onw.
