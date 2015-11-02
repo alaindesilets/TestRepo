@@ -7,3 +7,5 @@ AND PUSHED to GitHub. So at one point, Copy2 will have to merge the Copy1
 change with its onw.
 
 Now I am trying the Eclispe EGit interface. Added this from the Eclipse cloned repo.
+
+This change was done in and pushed from Copy1 (outside of Eclipse repo), while other changes were being made in Ecllipse repo
