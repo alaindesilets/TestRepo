@@ -5,3 +5,5 @@ I modify the FirstFile.txt and save it, then try to commit it.
 OK, so this change was made and pushed from Copy1 WHILE ANOTHER CHANGE was being made in Copy2.
 AND PUSHED to GitHub. So at one point, Copy2 will have to merge the Copy1
 change with its onw.
+
+Now I am trying the Eclispe EGit interface. Added this from the Eclipse cloned repo.
