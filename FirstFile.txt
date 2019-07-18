@@ -5,3 +5,5 @@ Then, after maintainers feedback, I add this line in 'branch1'.
 While branch1 is still in the oven, I start a second branch 'branch2' which creates this lie of text.
 
 And then, I add this line based on maintainer feedback on 'branch2'.
+
+And then, after branch1 was merged back into my master, the maintainers asked me to add this line.
