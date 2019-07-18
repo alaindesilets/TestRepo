@@ -1,3 +1,7 @@
 In 'branch1', I completely replace content of this file with new content.
 
 Then, after maintainers feedback, I add this line in 'branch1'.
+
+While branch1 is still in the oven, I start a second branch 'branch2' which creates this lie of text.
+
+And then, I add this line based on maintainer feedback on 'branch2'.
