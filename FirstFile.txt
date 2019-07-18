@@ -1,3 +1,5 @@
 In 'branch1', I completely replace content of this file with new content.
 
 Then, after maintainers feedback, I add this line in 'branch1'.
+
+And then, after branch1 was merged back into my master, the maintainers asked me to add this line.
