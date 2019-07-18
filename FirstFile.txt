@@ -1,11 +1,1 @@
-OK. So now I try the git command line, after receiving a private course by Eric.
-
-I modify the FirstFile.txt and save it, then try to commit it.
-
-OK, so this change was made and pushed from Copy1 WHILE ANOTHER CHANGE was being made in Copy2.
-AND PUSHED to GitHub. So at one point, Copy2 will have to merge the Copy1
-change with its onw.
-
-Now I am trying the Eclispe EGit interface. Added this from the Eclipse cloned repo.
-
-This change was done in and pushed from Copy1 (outside of Eclipse repo), while other changes were being made in Ecllipse repo
+In 'branch1', I completely replace content of this file with new content.
